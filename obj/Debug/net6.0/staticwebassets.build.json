@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BOrbiP9i7qUf5M9AKmopzN9i5dNXXVc/UTaMm4grojU=",
+  "Source": "aspdockerapi",
+  "BasePath": "_content/aspdockerapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
